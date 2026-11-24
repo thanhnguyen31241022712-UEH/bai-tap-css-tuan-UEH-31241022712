@@ -1,6 +1,6 @@
 # CSS nâng cao – Lab 07
 
-**Nguyễn Phan Tấn Thành**  
+**Nguyễn Phan Tân Thành**  
 MSSV 31241022712  
 Học phần Phát triển ứng dụng thương mại điện tử
 
@@ -39,3 +39,5 @@ Mã bài và tài nguyên của từng Exercise nằm trong thư mục `Lab07`. 
 ## Cách mở bài
 
 Mở `CSS-NangCao/index.html` bằng Live Server. Chọn một Exercise trong mục **Bài thực hành và kỹ năng**. Với bài responsive, thử thu hẹp cửa sổ hoặc dùng chế độ Mobile của DevTools. Với bài hiệu ứng, rê chuột hoặc tải lại trang theo nội dung từng bài.
+
+[GitHub Repository](https://github.com/thanhnguyen31241022712-UEH/bai-tap-css-tuan-UEH-31241022712)
